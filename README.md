@@ -6,4 +6,4 @@
 
 
 ## Docker It Yourself
-[docker push mik25/stremio-miktest2-iptv](https://hub.docker.com/repository/docker/mik25/stremio-miktest2-iptv)
+[docker push mik25/stremio-miktest2-iptv](https://hub.docker.com/repository/docker/mik25/iptv-org)
