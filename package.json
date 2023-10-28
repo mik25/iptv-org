@@ -1,0 +1,15 @@
+{
+	"name": "miktest2iptv",
+	"version": "0.0.7",
+	"description": "headers test",
+	"engines": {
+		"node": "18.x"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"request": "^2.88.2",
+		"stremio-addon-sdk": "^1.6.2"
+	}
+}
